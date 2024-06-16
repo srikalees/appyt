@@ -1,0 +1,16 @@
+body{
+
+background-image:url('../images/bg1.jpeg');
+background-size:cover;
+background-repeat:no-repeat;
+background-position:center center;
+
+}
+
+header{
+background-color:#0000;
+color:red;
+text-align:center;
+padding:20px;
+
+}
